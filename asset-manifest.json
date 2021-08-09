@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/hashTest2/static/css/main.675f5915.chunk.css",
-    "main.js": "/hashTest2/static/js/main.f35023a1.chunk.js",
-    "main.js.map": "/hashTest2/static/js/main.f35023a1.chunk.js.map",
+    "main.css": "/hashTest2/static/css/main.c8a618fd.chunk.css",
+    "main.js": "/hashTest2/static/js/main.9ca9764e.chunk.js",
+    "main.js.map": "/hashTest2/static/js/main.9ca9764e.chunk.js.map",
     "runtime-main.js": "/hashTest2/static/js/runtime-main.ab89e7e1.js",
     "runtime-main.js.map": "/hashTest2/static/js/runtime-main.ab89e7e1.js.map",
     "static/js/2.cf985a34.chunk.js": "/hashTest2/static/js/2.cf985a34.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.e33b8d7a.chunk.js": "/hashTest2/static/js/3.e33b8d7a.chunk.js",
     "static/js/3.e33b8d7a.chunk.js.map": "/hashTest2/static/js/3.e33b8d7a.chunk.js.map",
     "index.html": "/hashTest2/index.html",
-    "static/css/main.675f5915.chunk.css.map": "/hashTest2/static/css/main.675f5915.chunk.css.map",
+    "static/css/main.c8a618fd.chunk.css.map": "/hashTest2/static/css/main.c8a618fd.chunk.css.map",
     "static/js/2.cf985a34.chunk.js.LICENSE.txt": "/hashTest2/static/js/2.cf985a34.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ab89e7e1.js",
     "static/js/2.cf985a34.chunk.js",
-    "static/css/main.675f5915.chunk.css",
-    "static/js/main.f35023a1.chunk.js"
+    "static/css/main.c8a618fd.chunk.css",
+    "static/js/main.9ca9764e.chunk.js"
   ]
 }
