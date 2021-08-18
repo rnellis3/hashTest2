@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hashTest2/static/css/main.9992ba8e.chunk.css",
-    "main.js": "/hashTest2/static/js/main.e618f6e9.chunk.js",
-    "main.js.map": "/hashTest2/static/js/main.e618f6e9.chunk.js.map",
+    "main.js": "/hashTest2/static/js/main.e726884d.chunk.js",
+    "main.js.map": "/hashTest2/static/js/main.e726884d.chunk.js.map",
     "runtime-main.js": "/hashTest2/static/js/runtime-main.ab89e7e1.js",
     "runtime-main.js.map": "/hashTest2/static/js/runtime-main.ab89e7e1.js.map",
     "static/js/2.4290e29b.chunk.js": "/hashTest2/static/js/2.4290e29b.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.ab89e7e1.js",
     "static/js/2.4290e29b.chunk.js",
     "static/css/main.9992ba8e.chunk.css",
-    "static/js/main.e618f6e9.chunk.js"
+    "static/js/main.e726884d.chunk.js"
   ]
 }
