@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/hashTest2/static/css/main.68a4969d.chunk.css",
-    "main.js": "/hashTest2/static/js/main.e726884d.chunk.js",
-    "main.js.map": "/hashTest2/static/js/main.e726884d.chunk.js.map",
+    "main.css": "/hashTest2/static/css/main.ca4ac020.chunk.css",
+    "main.js": "/hashTest2/static/js/main.53a842f7.chunk.js",
+    "main.js.map": "/hashTest2/static/js/main.53a842f7.chunk.js.map",
     "runtime-main.js": "/hashTest2/static/js/runtime-main.ab89e7e1.js",
     "runtime-main.js.map": "/hashTest2/static/js/runtime-main.ab89e7e1.js.map",
     "static/js/2.4290e29b.chunk.js": "/hashTest2/static/js/2.4290e29b.chunk.js",
@@ -10,15 +10,16 @@
     "static/js/3.e33b8d7a.chunk.js": "/hashTest2/static/js/3.e33b8d7a.chunk.js",
     "static/js/3.e33b8d7a.chunk.js.map": "/hashTest2/static/js/3.e33b8d7a.chunk.js.map",
     "index.html": "/hashTest2/index.html",
-    "static/css/main.68a4969d.chunk.css.map": "/hashTest2/static/css/main.68a4969d.chunk.css.map",
+    "static/css/main.ca4ac020.chunk.css.map": "/hashTest2/static/css/main.ca4ac020.chunk.css.map",
     "static/js/2.4290e29b.chunk.js.LICENSE.txt": "/hashTest2/static/js/2.4290e29b.chunk.js.LICENSE.txt",
     "static/media/hulkBKG.4c532938.jpg": "/hashTest2/static/media/hulkBKG.4c532938.jpg",
-    "static/media/red.b43e0451.jpg": "/hashTest2/static/media/red.b43e0451.jpg"
+    "static/media/red.b43e0451.jpg": "/hashTest2/static/media/red.b43e0451.jpg",
+    "static/media/shield.561f55c5.png": "/hashTest2/static/media/shield.561f55c5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ab89e7e1.js",
     "static/js/2.4290e29b.chunk.js",
-    "static/css/main.68a4969d.chunk.css",
-    "static/js/main.e726884d.chunk.js"
+    "static/css/main.ca4ac020.chunk.css",
+    "static/js/main.53a842f7.chunk.js"
   ]
 }
